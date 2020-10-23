@@ -1,6 +1,13 @@
-# :book: API_RESTful_emprestimo
+# :computer: API_RESTful_emprestimo
 
-## Challenge
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
+## :fire: Challenge
 
 Using [Django](https://www.djangoproject.com/) and [Django REST framework](https://www.django-rest-framework.org/) develop a REST API that allows users to manage financial loans.
 
@@ -18,7 +25,7 @@ This project was developed with the following technologies:
 
 
 
-### Checklist
+### :book: Checklist
 
 - [ ] Users must be able to enter loans and their payments
 - [ ] Users must be able to view their loans and payments
@@ -46,10 +53,17 @@ This project was developed with the following technologies:
 
 
 
-### How to use it
+## Getting started
 
 Basically, we have to follow the steps bellow:
 
 1. Clone this repository
 2. Execute all tests
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+
 
