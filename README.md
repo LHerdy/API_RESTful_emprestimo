@@ -11,3 +11,4 @@ This project was developed with the following technologies:
 - [Django](https://www.djangoproject.com/)
 - [DRF](https://www.django-rest-framework.org/)
 - [pytest](https://pytest-django.readthedocs.io/en/latest/)
+- [pycharm](https://www.jetbrains.com/pycharm/)
