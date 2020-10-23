@@ -1,5 +1,13 @@
 # :book: API_RESTful_emprestimo
 
-# :construction: Estamos em construção!
 
-Django RESTFul Web Services.
+
+
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+- [Python](https://https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [DRF](https://www.django-rest-framework.org/)
+- [pytest](https://pytest-django.readthedocs.io/en/latest/)
