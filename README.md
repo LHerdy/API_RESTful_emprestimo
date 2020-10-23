@@ -25,7 +25,7 @@ This project was developed with the following technologies:
 
 
 
-### :book: Checklist
+## :book: Checklist
 
 - [ ] Users must be able to enter loans and their payments
 - [ ] Users must be able to view their loans and payments
