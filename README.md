@@ -1,6 +1,6 @@
 # :book: API_RESTful_emprestimo
 
-## challenge
+## Challenge
 
 Using [Django](https://www.djangoproject.com/) and [Django REST framework](https://www.django-rest-framework.org/) develop a REST API that allows users to manage financial loans.
 
